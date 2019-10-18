@@ -4,6 +4,6 @@
 <description>
 
 "How can I help?" you may ask... Well, here's a few ways you can participate:
-- Submit [bugs and feature requests](<link to issues>)
+- Submit [bugs and feature requests](https://github.com/CSUF-ACM/food-tinder/issues)
 - Join our [Slack!](<link to slack>)
 
